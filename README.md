@@ -1,4 +1,4 @@
-This is my GitHub.  To see my website, head to <https://rsettlage.github.io/https://rsettlage.github.io/>.
+This is my GitHub.  To see my website, head to <https://rsettlage.github.io/>.
 
 
 
